@@ -15,7 +15,7 @@ Bài Tập React
            <br>
 7.[Câu 15](https://codepen.io/AnhTaitrn/pen/LYryyZP)
            <br>
-  [Câu 15 blind](https://codepen.io/AnhTaitrn/pen/poKOBEo)
+ [Câu 15 blind](https://codepen.io/AnhTaitrn/pen/poKOBEo)
            <br>          
 8.[Câu 16](https://codepen.io/AnhTaitrn/pen/KKeoxBR)
            <br>
