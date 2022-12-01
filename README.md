@@ -19,4 +19,4 @@ Bài Tập React
            <br>
 9.[Câu 17](https://codepen.io/AnhTaitrn/pen/poKLxWB)
 ## Thực Hành
-1.[Bài Thực Hành Pros and ](https://codepen.io/AnhTaitrn/pen/JjZazpY)
+1.[Bài Thực Hành Pros and State](https://codepen.io/AnhTaitrn/pen/JjZazpY)
