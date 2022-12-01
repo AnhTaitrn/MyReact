@@ -2,6 +2,7 @@
 Bài Tập React
 ## Lý thuyết
 1.[Câu 9](https://codepen.io/AnhTaitrn/pen/VwdjWbw)
+           <br>
 2.[Câu 10](https://codepen.io/AnhTaitrn/pen/BaVzZgm)
 3.[Câu 11](https://codepen.io/AnhTaitrn/pen/abKWpeV)
 4.[Câu 12](https://codepen.io/AnhTaitrn/pen/zYaZOOQ)
