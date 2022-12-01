@@ -1,6 +1,6 @@
 # MyReact
 Bài Tập React
-## Lý thuyết
+##  Lý thuyết
 1.[Câu 9](https://codepen.io/AnhTaitrn/pen/VwdjWbw)
            <br>
 2.[Câu 10](https://codepen.io/AnhTaitrn/pen/BaVzZgm)
