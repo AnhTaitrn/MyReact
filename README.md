@@ -17,5 +17,5 @@ Bài Tập React
 13. [Câu 21](https://codepen.io/AnhTaitrn/pen/YzvgXQr)
 
 ## Thực Hành
-1.[Bài Thực Hành Pros and State](https://codepen.io/AnhTaitrn/pen/JjZazpY)
+1.[Bài Thực Hành Pros and State](https://codepen.io/AnhTaitrn/pen/poKYJrM)
 2.
