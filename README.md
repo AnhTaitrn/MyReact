@@ -19,3 +19,4 @@ Bài Tập React
 ## Thực Hành
 1. [Bài Thực Hành Pros and State](https://codepen.io/AnhTaitrn/pen/poKYJrM)
 2. [Bài thưc hành làm quen React](https://codesandbox.io/s/hardcore-moore-ez68s5?file=/src/Nav.js)
+3. [ Dự Án](https://codepen.io/AnhTaitrn/pen/zYabvrd)
